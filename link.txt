@@ -9,3 +9,5 @@ Managing Knowledge
 
 -------------------------
 add some lines
+------------------------
+add lines locally
