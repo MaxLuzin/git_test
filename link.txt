@@ -6,3 +6,6 @@ Steffen Raub
 Kai Romhardt
 Managing Knowledge
 1999
+
+-------------------------
+add some lines
